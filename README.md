@@ -1,5 +1,8 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
 
+## Name : Rasika M
+## Reg NO : 212222230117
+
 ## AIM:
 To create a warehouse application in salesforce.com
 
